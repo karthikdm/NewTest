@@ -1,7 +1,9 @@
-public class Test2 {
+Public class helloWorld
+{
 
-pulic Static void Main (String ...a){
-String a = "Hello world";
-Sring b = "Bye World"; 
+public satic void main(String ...)
+{
+String a = "hello1"; 
+}
 
 }
